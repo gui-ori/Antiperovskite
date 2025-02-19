@@ -1,4 +1,4 @@
-# Antiperovskite
+# Antiperovskites
 This repository contains data from density functional theory (DFT) calculations, Car-Parrinello and Born-Oppenheimer molecular dynamics (CPMD & BOMD) simulations, and classical molecular dynamics simulations using machine-learned interatomic potentials (MLIP) trained with optimal set of hyperparameters. This data is associated with the following research manuscripts or preprints. Some of it is also available in the [Coe-NOMAD](http://nomad-lab.eu/) repository under the CC BY 4.0 license.
 
 Na(3-x)OHxCl
